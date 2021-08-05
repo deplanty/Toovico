@@ -4,5 +4,10 @@
     },
     "Tooltip.TLabel": {
         "background": "#ffffcc"
+    },
+    "Entry.TLabel": {
+        "background": "#ffffff",
+        "borderwidth": 20,
+        "relief": "groove"
     }
 }

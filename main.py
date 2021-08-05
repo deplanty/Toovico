@@ -14,7 +14,7 @@ class Application(tk.Tk):
         pl.load_styles(self)
 
         self.ui = frm.MainUI(self)
-        self.ui.notebook.add(tk.Frame(self), text="Empty")
+        self.ui.notebook.add(frm.ConvertVideoTab(self), text="Convert video")
 
 
 if __name__ == '__main__':
