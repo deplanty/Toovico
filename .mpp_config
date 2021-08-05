@@ -1,0 +1,12 @@
+{
+    "name": "Toovico",
+    "author": "deplanty",
+    "version": "0.0.0",
+    "icon": "resources/images/icon.ico",
+    "resources": [
+        "resources",
+        ".mpp_config"
+    ],
+    "console": true,
+    "hidden-imports": []
+}

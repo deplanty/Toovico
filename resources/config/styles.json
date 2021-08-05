@@ -1,0 +1,8 @@
+{
+    "Tooltip.TFrame": {
+        "background": "#000000"
+    },
+    "Tooltip.TLabel": {
+        "background": "#ffffcc"
+    }
+}
