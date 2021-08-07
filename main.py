@@ -15,6 +15,7 @@ class Application(tk.Tk):
 
         self.ui = frm.MainUI(self)
         self.ui.notebook.add(frm.ConvertVideoTab(self), text="Convert video")
+        self.ui.notebook.add(frm.ImageToVideoTab(self), text="Create video")
 
 
 if __name__ == '__main__':
