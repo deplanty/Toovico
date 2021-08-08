@@ -2,7 +2,6 @@ import tkinter as tk
 
 import src.frames as frm
 import src.preload as pl
-from src import utils
 
 
 class Application(tk.Tk):
